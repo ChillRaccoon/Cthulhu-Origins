@@ -119,11 +119,8 @@
 		/decl/emote/visible/dap,
 		/decl/emote/visible/signal,
 		/decl/emote/visible/handshake,
-		/decl/emote/human/poo,
-		/decl/emote/human/pee,
 		/decl/emote/audible/clearthroat,
-		/decl/emote/audible/hem,
-		/decl/emote/human/fap
+		/decl/emote/audible/hem
 	)
 
 /mob/living/silicon/robot
