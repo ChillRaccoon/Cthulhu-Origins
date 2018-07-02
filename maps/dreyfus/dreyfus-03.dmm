@@ -102,7 +102,7 @@
 "bX" = (/turf/simulated/wall,/turf/simulated/wall/cult,/area/dreyfus/cargo/maintenance/tribord)
 "bY" = (/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/door/unpowered/simple/cult,/turf/simulated/floor/plating,/area/dreyfus/cargo/maintenance/tribord)
 "bZ" = (/turf/simulated/floor/cult,/area/dreyfus/cargo/maintenance/tribord)
-"ca" = (/obj/structure/deity/blood_stone,/obj/structure/displaycase,/obj/item/sign{icon_state = "poster_nazi"; step_x = 31; step_y = 0},/turf/simulated/floor/cult,/area/dreyfus/cargo/maintenance/tribord)
+"ca" = (/obj/structure/deity/blood_stone,/obj/structure/displaycase,/obj/item/sign{icon_state = "poster_nazi"; step_x = 31},/turf/simulated/floor/cult,/area/dreyfus/cargo/maintenance/tribord)
 "cb" = (/obj/structure/ore_box,/obj/machinery/light/small{tag = "icon-bulb1 (NORTH)"; icon_state = "bulb1"; dir = 1},/obj/machinery/light_switch{dir = 2; name = "light switch "; pixel_x = 0; pixel_y = 22},/turf/simulated/floor/tiled/bunker/yellow,/area/dreyfus/cargo/industrie/raffinerie)
 "cc" = (/obj/machinery/door/airlock/mining{name = "Refinery"; req_access = list(48)},/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/tiled/bunker/yellow,/area/dreyfus/cargo/industrie/production)
 "cd" = (/obj/machinery/computer/supply,/turf/simulated/floor/tiled/bunker/yellow,/area/dreyfus/cargo/industrie/accueil)
